@@ -65,7 +65,7 @@ const Portfolio = () => {
       company: "Noboru World",
       role: "Technical Product Intern",
       period: "June 2025 - Present",
-      location: "Bhubaneswar / Pune",
+      location: "Pune",
       description: "Spearheading product lifecycles and AI automation strategies.",
       achievements: [
         "Developed 'SHERPA', an internal AI agent increasing lead capacity by 600%.",
@@ -139,7 +139,7 @@ const Portfolio = () => {
     {
       school: "Kalinga Institute of Industrial Technology (KIIT)",
       degree: "B.Tech in Computer Science and Engineering",
-      grade: "CGPA: 8.50/10",
+      grade: "CGPA: 9.00/10",
       year: "2022 - 2026 (Expected)"
     }
   ];
